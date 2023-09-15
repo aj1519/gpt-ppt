@@ -19,7 +19,8 @@ Intsuction prompt
 Read >>>CONTENT<<< and generate JSON in the below format
 {
 "DesignDoc": {
-  "Intent":,
+  "Intent",
+  "Solution",
   "Pros",
   "Cons",}.
 "Diagram": this provides diagram of the content in plantuml output format
